@@ -2,6 +2,7 @@
 
 import { useEffect } from "react";
 
+
 export const ReportView: React.FC<{ slug: string }> = ({ slug }) => {
 	useEffect(() => {
 		fetch("/api/incr", {
