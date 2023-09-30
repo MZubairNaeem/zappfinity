@@ -7,18 +7,18 @@ import { Analytics } from "./components/analytics";
 export const metadata: Metadata = {
 	title: {
 		default: "ZappFinity | Beyond Infinity",
-		template: "%s | chronark.com",
+		template: "%s | zappfinity.com",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "ZappFinity is a software development company that specializes in building web and mobile applications. We are a team of passionate developers who love to build and ship products.",
 	openGraph: {
-		title: "chronark.com",
+		title: "ZappFinity | Beyond Infinity",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"ZappFinity is a software development company that specializes in building web and mobile applications. We are a team of passionate developers who love to build and ship products.",
+		url: "",
+		siteName: "",
 		images: [
 			{
-				url: "https://chronark.com/og.png",
+				url: "https://zappfinity.com/og-image.png",
 				width: 1920,
 				height: 1080,
 			},
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Chronark",
+		title: "ZappFinity | Beyond Infinity",
 		card: "summary_large_image",
 	},
 	icons: {
