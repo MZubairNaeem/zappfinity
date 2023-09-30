@@ -6,7 +6,7 @@ import { Card } from "../components/card";
 import Image from "next/image";
 import Laravel from "public/Laravel.png";
 import Flutter from "public/Flutter.png";
-import React from "public/react.png";
+import React from "public/React.png";
 
 const socials = [
 	{
