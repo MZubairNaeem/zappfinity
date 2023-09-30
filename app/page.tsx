@@ -6,6 +6,7 @@ import Image from "next/image";
 
 const navigation = [
 	{ name: "Projects", href: "/projects" },
+	{ name: "Services", href: "/services" },
 	{ name: "Contact", href: "/contact" },
 ];
 
@@ -60,7 +61,24 @@ export default function Home() {
 						className="underline duration-500 hover:text-zinc-300"
 					>
 					LARAVEL
-					</Link>{" "}.
+					</Link>.
+					Web applications 
+					<br />
+					for your business or startup using {" "} 
+					<Link
+						target="_blank"
+						href="https://react.dev/"
+						className="underline duration-500 hover:text-zinc-300"
+					>
+					React
+					</Link>{" "} & {" "}
+					<Link
+						target="_blank"
+						href="https://vuejs.org/"
+						className="underline duration-500 hover:text-zinc-300"
+					>
+					Vue JS
+					</Link>.
 				</h2>
 			</div>
 		</div>
