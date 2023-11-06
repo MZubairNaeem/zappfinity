@@ -13,9 +13,9 @@ const socials = [
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:zubair@zappfinity.com",
+		href: "mailto:info@zappfinity.com",
 		label: "Email",
-		handle: "zubair@zappfinity.com",
+		handle: "info@zappfinity.com",
 	},
 	{
 		icon: <Github size={20} />,
